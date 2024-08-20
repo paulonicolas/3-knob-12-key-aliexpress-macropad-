@@ -32,7 +32,7 @@ This program was developed to cooverage the configuration for Linux (It could al
    ```
 - In function send_hid_report() you can send the reports generates with get_report.
 
-## INSTALATION:
+## INSTALLATION:
 - Preferent with a enviroment for python.
 - python -m venv env
 - source xxx/xx/env/bin/activate
