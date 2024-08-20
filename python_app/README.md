@@ -1,9 +1,8 @@
 
 # 3 KNOB 12 KEY ALIEXPRESS MACROPAD PROGRAM FOR LINUX
-This program was developed to cooverage the configuration for Linux and is not complete in a visual mode but can be a point to start a more complex deleloped.
-
-
-
+This program was developed to cooverage the configuration for Linux (It could also be implemented on Windows or Mac.) and is not complete in a visual mode but can be a point to start a more complex deleloped.
+#image
+![Keyboar 12 keys 3 knobs][https://picsum.photos/800/600](https://m.media-amazon.com/images/I/61d47UtkvgL._AC_SL1500_.jpg]
 ## Some things to keep in mind:
 - HID is a method for comunicate with a keyboard.
 - Python provide a library to use this comunication.
@@ -33,7 +32,15 @@ This program was developed to cooverage the configuration for Linux and is not c
    ```
 - In function send_hid_report() you can send the reports generates with get_report.
 
+## INSTALATION:
+- Preferent with a enviroment for python.
+- python -m venv env
+- source xxx/xx/env/bin/activate
+- pip install hidapi
+  
 ## THINGS THAT ARE MISSING:
 - Read the device (only you can write).
 - Configure the knobs: I couldn't find the codes for the knobs.
 - The visual experience in linux is not finished.
+  
+<a href="https://www.buymeacoffee.com/paulojarafe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
