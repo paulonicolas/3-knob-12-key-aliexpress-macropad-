@@ -6,7 +6,7 @@ This program was developed to cooverage the configuration for Linux (It could al
 ## Some things to keep in mind:
 - HID is a method for comunicate with a keyboard.
 - Python provide a library to use this comunication.
-- you need a VENDOR ID and PRODUCT ID from keyboard, whit lsusb in a terminal you can know (in this case VENDOR ID=0x1189 and PRODUCT ID=0x8842 ).
+- you need a VENDOR ID and PRODUCT ID from keyboard, with lsusb in a terminal you can know (in this case VENDOR ID=0x1189 and PRODUCT ID=0x8842 ).
   ```bash
   $ lsusb
   ...
