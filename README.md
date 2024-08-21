@@ -1,6 +1,6 @@
 
 # 3 KNOB 12 KEY ALIEXPRESS MACROPAD PROGRAM FOR LINUX
-This program was developed to cooverage the configuration for Linux (It could also be implemented on Windows or Mac.) and is not complete in a visual mode but can be a point to start a more complex deleloped.
+This program was developed to cooverage the configuration for Linux (It could also be implemented on Windows or Mac.) and is not complete in a visual mode but can be a point to start a more complex developed.
 
 ![Keyboar 12 keys 3 knobs](https://github.com/paulonicolas/3-knob-12-key-aliexpress-macropad-/blob/9f7028b14a91adddaf28f5a0c9d023e06d975d06/python_app/12x3knob_.jpg)
 ## Some things to keep in mind:
